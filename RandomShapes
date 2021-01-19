@@ -1,0 +1,5 @@
+package polymorphism.shape;
+import java.util.*;
+
+public class RandomShapes {
+    private Random rand = new Random(47);
